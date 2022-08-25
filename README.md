@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter, node js and typescript<br>👯 I’m looking to collaborate on any open source flutter projects <br>🌱 I’m currently learning UI/UX and nest js<br>💬 Ask me about flutter and dart
+🔭 I’m currently working on flutter, node js and typescript<br>👯 I’m looking to work on freelancing projects <br>🌱 I’m currently learning UI/UX and nest js<br>💬 Ask me about flutter and dart
 
 
 ## 🌐 Socials:
