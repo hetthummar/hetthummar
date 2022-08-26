@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter, node js and typescript<br> <br>🌱 I’m currently learning UI/UX and nest js<br>💬 Ask me about flutter and dart
+🔭 I’m currently working on flutter, node js and typescript<br>🌱 I’m currently learning UI/UX and nest js<br>💬 Ask me about flutter and dart
 
 
 ## 🌐 Socials:
